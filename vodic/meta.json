@@ -1,0 +1,47 @@
+{
+  "info": {
+    "id": "cevapgrill",
+    "guideKey": "cg-guide-done",
+    "storageKey": "cevap-grill-bg",
+    "fulfillments": [
+      "delivery",
+      "pickup"
+    ],
+    "sizes": 1,
+    "name": "Ćevap Grill",
+    "address": "Jurija Gagarina 39b, Novi Beograd",
+    "phone": "069 228 0882",
+    "hours": "Pon – Sub 09:00 – 23:00 · Ned 11:00 – 23:00",
+    "instagram": "",
+    "logo": "logo.png",
+    "deliveryFee": 250,
+    "cardPayment": [],
+    "locations": 0,
+    "categories": 4,
+    "menu": "static",
+    "menuItems": 17,
+    "closedToday": false,
+    "soldOutToday": [],
+    "orders": "local",
+    "tenantPath": "cevapgrill",
+    "emulator": false
+  },
+  "style": {
+    "bg": "#FBF6EE",
+    "card": "#FFFFFF",
+    "inset": "#F3EBDD",
+    "line": "#E7DCC9",
+    "primary": "#D62E27",
+    "onPrimary": "#FFFFFF",
+    "dark": "#1D1916",
+    "dark2": "#26211D",
+    "cta": "#2B7F3F",
+    "ink": "#26211D",
+    "ink2": "#5E554D",
+    "font": "\"Titan One\", \"Arial Rounded MT Bold\", \"Arial Black\", sans-serif",
+    "tracking": "0.01em",
+    "case": "none",
+    "weight": "400",
+    "scale": "0.78"
+  }
+}

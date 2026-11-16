@@ -1,0 +1,26 @@
+{
+  "id": "/cevap-grill-bg/kuhinja",
+  "name": "Ćevap Grill · Kuhinja",
+  "short_name": "Kuhinja",
+  "description": "Portal za kuhinju — Ćevap Grill",
+  "lang": "sr",
+  "start_url": "/cevap-grill-bg/kuhinja",
+  "scope": "/cevap-grill-bg/kuhinja",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#1D1916",
+  "background_color": "#1D1916",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

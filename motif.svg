@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="64" viewBox="0 0 96 64">
+  <!-- the slanted red dashes along their storefront fascia ("ĆEVAP GRILL" sign), in offset rows -->
+  <g fill="#E8312B" fill-opacity="0.2">
+    <path d="M10 12h20l-6 9H4z"/>
+    <path d="M58 12h20l-6 9H52z"/>
+    <path d="M34 44h20l-6 9H28z"/>
+    <path d="M82 44h20l-6 9H76z"/>
+    <path d="M-14 44h20l-6 9h-20z"/>
+  </g>
+</svg>
